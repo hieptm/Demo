@@ -14,6 +14,7 @@ namespace Demo
         public Form1()
         {
             InitializeComponent();
+            //Khai bao a b
             int a, b;
             a = 12;
             b = 3;
